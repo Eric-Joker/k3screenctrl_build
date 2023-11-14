@@ -1,4 +1,4 @@
-如果直接编译无法使用可尝试将906-bcm-ns-uart1.patch移动到target/linux/bcm53xx/patches-内核版本/
+如果直接编译卡进度条常亮可尝试将906-bcm-ns-uart1.patch或[906-BCM5301x-uart1.patch](https://github.com/ZhangCharlie/k3screen-fix-patch/blob/main/bcm53xx/patches-5.4/906-BCM5301x-uart1.patch)（根据内核版本选择）下载到target/linux/bcm53xx/patches-内核版本/
 
 # 编译K3的屏幕控制组件
 
